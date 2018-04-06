@@ -1,28 +1,28 @@
 if (major_selected.chosen==false)
 {
-	if (point_distance(major_selected.x,major_selected.y,chosen_pos_4_x,chosen_pos_4_y)<=100)
+	if (point_distance(major_selected.x,major_selected.y,chosen_pos_5_x,chosen_pos_5_y)<=100)
 	{
-		if (chosen_pos_4==false) // if no card is currently there
-		{
-			major_selected.x=chosen_pos_4_x; // place the card
-			major_selected.y=chosen_pos_4_y;
-			scr_dmg_check(true); // <-- checks card strength, flips card
-			major_selected.chosen=true;
-			chosen_pos_4=true; // <-- no more cards can be chosen at this position.
-			
-		}
-		
-	}
-	
-	else if (point_distance(major_selected.x,major_selected.y,chosen_pos_5_x,chosen_pos_5_y)<=100)
-		{
 		if (chosen_pos_5==false) // if no card is currently there
-			{
+		{
 			major_selected.x=chosen_pos_5_x; // place the card
 			major_selected.y=chosen_pos_5_y;
 			scr_dmg_check(true); // <-- checks card strength, flips card
 			major_selected.chosen=true;
 			chosen_pos_5=true; // <-- no more cards can be chosen at this position.
+			
+		}
+		
+	}
+	
+	else if (point_distance(major_selected.x,major_selected.y,chosen_pos_6_x,chosen_pos_6_y)<=100)
+		{
+		if (chosen_pos_6==false) // if no card is currently there
+			{
+			major_selected.x=chosen_pos_6_x; // place the card
+			major_selected.y=chosen_pos_6_y;
+			scr_dmg_check(true); // <-- checks card strength, flips card
+			major_selected.chosen=true;
+			chosen_pos_6=true; // <-- no more cards can be chosen at this position.
 			
 			}
 		

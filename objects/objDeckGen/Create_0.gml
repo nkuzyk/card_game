@@ -33,6 +33,10 @@ minorPool[3]=noone;
 majorPool[1]=noone;
 majorPool[2]=noone;
 
+// Prime Array
+
+primePool[1]=noone;
+
 // card selected
 
 hero_selected=noone;

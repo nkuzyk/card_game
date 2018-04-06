@@ -55,4 +55,16 @@ for (i=0; i<=num; i+=1)
 			majorPool[2].sprite_index=card_draw; // assign sprite to card
 		}
 	}
+	
+	
+	
+	else if (global.filter == "Prime") // Draw Prime units
+	{
+		var card_draw=ds_list_find_value(unitListPrime,0); // Draw card at top of deck
+		if (primePool[1]==noone)
+		{
+			primePool[1]=instance_create_layer(98,124,"Instances",objPrime); // Create card
+			primePool[1].sprite_index=card_draw; // assign sprite to card
+		}
+	}
 }

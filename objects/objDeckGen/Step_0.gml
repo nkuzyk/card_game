@@ -33,6 +33,18 @@ if chosen_pos_2=true && chosen_pos_3=true && chosen_pos_4=true
 
 	scr_select_major();
 
+if chosen_pos_5=true && chosen_pos_6=true
+{
+	global.filter = "Prime";
+}
+
+
+	scr_draw();
+
+	scr_pick_prime();
+
+	scr_select_prime();
+
 
 
 
