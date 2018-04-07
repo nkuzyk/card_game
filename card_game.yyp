@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1830c09b-cd05-4601-85a1-cd8dadf720e1",
+            "Value": {
+                "id": "e592ec8d-559f-4c7d-a0dc-cf55a8b0f87f",
+                "resourcePath": "sprites\\sprMinorOutlinePH\\sprMinorOutlinePH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "199d27c1-c6e6-4352-a84e-53915ed0bf40",
             "Value": {
                 "id": "ce89dd1e-b975-4317-840b-660df4adb7ed",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "2c16b7e7-8a03-4994-8cf6-e545f03f67c1",
+            "Value": {
+                "id": "1cff85a5-fa00-4d39-b9c9-c7f88905905c",
+                "resourcePath": "sprites\\sprMunitionsOutlinePH\\sprMunitionsOutlinePH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c5ca792-bd74-48d3-b429-14f444c7c9a2",
             "Value": {
                 "id": "24fe0395-32bd-4828-bf46-a20088bfea9e",
@@ -316,6 +332,14 @@
                 "id": "0bf5b952-c993-48a1-9ade-870c418810f8",
                 "resourcePath": "scripts\/scr_select_hero\/scr_select_hero.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5d25add2-c38c-48b1-8790-30aa5e608dc6",
+            "Value": {
+                "id": "4653623b-0d41-4ab7-a11f-d918061fd414",
+                "resourcePath": "sprites\\sprHeroOutlinePH\\sprHeroOutlinePH.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -679,6 +703,14 @@
             }
         },
         {
+            "Key": "e5975159-5119-4020-b31f-3891d226d23b",
+            "Value": {
+                "id": "c6229598-a8fd-4d55-90b6-110747790dc7",
+                "resourcePath": "sprites\\sprMajorOutlinePH\\sprMajorOutlinePH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e73bc051-4172-4ad3-b446-ef90a5add4cc",
             "Value": {
                 "id": "b36c9f3d-f0fc-43fd-8b33-8819ec294112",
@@ -724,6 +756,14 @@
                 "id": "57b40060-96f4-4c36-bf23-78aee67b39de",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f81002df-b0a2-4181-b08f-030b11c22449",
+            "Value": {
+                "id": "789c3ee4-2a04-4cd2-9b90-881ac128e8a9",
+                "resourcePath": "sprites\\sprPrimeOutlinePH\\sprPrimeOutlinePH.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

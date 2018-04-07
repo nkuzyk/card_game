@@ -14,7 +14,8 @@
         "fe97e08a-bcaa-4db4-bd53-834ceb0f1bb2",
         "1d3b7c26-b65a-4d5e-8486-6a8540baf632",
         "151669d1-3545-4dc3-8f5d-e8655310f187",
-        "fd42921e-af37-4617-a075-1d9d903e890f"
+        "fd42921e-af37-4617-a075-1d9d903e890f",
+        "2c16b7e7-8a03-4994-8cf6-e545f03f67c1"
     ],
     "filterType": "GMSprite",
     "folderName": "Cards",
