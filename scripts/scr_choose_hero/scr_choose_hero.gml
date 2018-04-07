@@ -1,6 +1,6 @@
 if (hero_selected.chosen==false)
 {
-	if (point_distance(hero_selected.x,hero_selected.y,chosen_pos_1_x,chosen_pos_1_y)<=100)
+	if (point_distance(hero_selected.x,hero_selected.y,chosen_pos_1_x,chosen_pos_1_y)<=72)
 	{
 		if (chosen_pos_1==false) // if no card is currently there
 		{

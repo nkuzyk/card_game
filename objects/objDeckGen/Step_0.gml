@@ -45,6 +45,19 @@ if chosen_pos_5=true && chosen_pos_6=true
 
 	scr_select_prime();
 
+if chosen_pos_7=true 
+{
+	global.filter = "Munitions";
+}
+
+
+	scr_draw();
+
+	scr_pick_munitions();
+
+	scr_select_munitions();
+	
+
 
 
 

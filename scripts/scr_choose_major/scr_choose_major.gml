@@ -1,6 +1,6 @@
 if (major_selected.chosen==false)
 {
-	if (point_distance(major_selected.x,major_selected.y,chosen_pos_5_x,chosen_pos_5_y)<=100)
+	if (point_distance(major_selected.x,major_selected.y,chosen_pos_5_x,chosen_pos_5_y)<=57)
 	{
 		if (chosen_pos_5==false) // if no card is currently there
 		{
@@ -14,7 +14,7 @@ if (major_selected.chosen==false)
 		
 	}
 	
-	else if (point_distance(major_selected.x,major_selected.y,chosen_pos_6_x,chosen_pos_6_y)<=100)
+	else if (point_distance(major_selected.x,major_selected.y,chosen_pos_6_x,chosen_pos_6_y)<=57)
 		{
 		if (chosen_pos_6==false) // if no card is currently there
 			{
