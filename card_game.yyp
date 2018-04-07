@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "48c71ca1-244a-4857-bccd-993381d8fbe5",
+            "Value": {
+                "id": "fffa76e7-53e8-4f71-ae12-dbbb8c1d1ee1",
+                "resourcePath": "notes\\NewNote.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "4b3c0790-2477-485a-8642-86a32c080d64",
             "Value": {
                 "id": "501a2956-118d-4b8a-8d3d-b6b8d94c7a68",
