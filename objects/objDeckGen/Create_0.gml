@@ -12,10 +12,14 @@ heroList = ds_list_create();
 munitionsList = ds_list_create();
 
 
+// pick hero
+
 scr_pick_hero();
 
 
 global.filter = "Hero";
+
+
 
 
 

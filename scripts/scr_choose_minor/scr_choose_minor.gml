@@ -39,6 +39,8 @@ if (minor_selected.chosen==false)
 				chosen_pos_4=true; // <-- no more cards can be chosen at this position.
 			
 			}
+			
+
 		
 		}
 		else

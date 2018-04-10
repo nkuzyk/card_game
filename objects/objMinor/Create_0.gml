@@ -1,4 +1,4 @@
-// comment here//Image vars
+//Image vars
 
 depth=-y;
 

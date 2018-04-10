@@ -39,7 +39,6 @@ for (i=0; i<=num; i+=1)
 	
 	
 
-
 	else if (global.filter == "Major") // Draw Major units
 	{
 		var card_draw=ds_list_find_value(unitListMajor,0); // Draw card at top of deck

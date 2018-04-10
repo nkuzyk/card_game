@@ -8,7 +8,7 @@ if (ai_turn==false) // if its players turn
 			scr_get_minor(); // <-- make sure correct card is selected!
 		}
 	}
-	if (mouse_check_button(mb_left)) // makes seleceted card follow mouse
+	if (mouse_check_button(mb_left)) // makes selected card follow mouse
 	{
 		with (minor_selected)
 		{

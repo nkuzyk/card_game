@@ -10,6 +10,10 @@ if (prime_selected.chosen==false)
 			prime_selected.chosen=true;
 			chosen_pos_7=true; // <-- no more cards can be chosen at this position.
 		}
+		
+
+
+
 	}
 		else
 		{

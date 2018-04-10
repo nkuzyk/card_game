@@ -26,7 +26,11 @@ if (major_selected.chosen==false)
 			
 			}
 		
-	}
+
+	
+	
+		}
+		
 	
 		else
 		{
